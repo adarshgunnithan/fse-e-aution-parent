@@ -8,7 +8,7 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>com.fse.eaution</groupId>
 	<artifactId>fse-e-aution-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>fse-e-aution-parent</name>
